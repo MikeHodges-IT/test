@@ -1,5 +1,5 @@
 # Test (git amend)
-  amend a SECOND TIME 
+  amend a THIRD TIME 
 # Test README
 
 Welcome to the test repository! 
