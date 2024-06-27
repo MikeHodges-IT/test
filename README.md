@@ -1,5 +1,5 @@
 # Test (git amend)
-  amend a eighth TIME 
+  amend 10 TIME 
 # Test README
 
 Welcome to the test repository! 
@@ -11,6 +11,3 @@ https://github.com/MikeHodges-IT/test/assets/69166570/c313fb27-ad85-40ee-86db-6d
 Feel free to explore the code and contribute to the project.
 
 Happy coding!
-
-
-
