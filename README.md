@@ -1,5 +1,5 @@
 # Test (git amend)
-  amend a Forth TIME 
+  amend a Fifth TIME 
 # Test README
 
 Welcome to the test repository! 
